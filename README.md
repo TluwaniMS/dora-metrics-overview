@@ -28,3 +28,9 @@ Mean Time to Recovery refers to the average time it takes to recover from a depl
 Throughput is a measure of the efficiency of our Software Development approach, which takes into consideration `Deployment Frequency` and `Change Lead Time`
 
 `Throughput = Lead Time & Deployment Frequency`
+
+## Understanding Quality Delivery / Stability
+
+Stability / Delivery Quality is the measure of the quality of software produced by a team, which takes into consideration the `Change Failure Rate` and the `Mean Time To Recovery`.
+
+`Stability = Change Failure Rate & Mean Time to Recovery`
