@@ -21,3 +21,10 @@ Change failure rate is the percentage of code changes that lead to failures in p
 ## 4. Mean Time to Recovery (MTTR):
 
 Mean Time to Recovery refers to the average time it takes to recover from a deployment failure (when identified) to the time until the issue is resolved/the full system functionality is restored.
+
+
+## Understanding Delivery Speed / Throughput
+
+Throughput is a measure of the efficiency of our Software Development approach, which takes into consideration `Deployment Frequency` and `Change Lead Time`
+
+`Throughput = Lead Time & Deployment Frequency`
